@@ -31,7 +31,7 @@ return (
 <div className='f_f_g_647533753'>
 <div className='_di_c_r_r_r_7544722'>
 I-Find.js <span>Creator</span> 
-<a className='a_f_t_5355322' href={_link_Github_profile}>Anas Alkouz</a>
+<a className='a_f_t_5355322' href={_link_Github_profile.current}>Anas Alkouz</a>
 <span>,</span>
 </div>
 <Div_f>
