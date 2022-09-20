@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/I-Find.js_ReactApp/static/css/main.0a223b5a.css",
-    "main.js": "/I-Find.js_ReactApp/static/js/main.bc470d2e.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/I-Find.js_ReactApp/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/github-outline-fill.svg": "/I-Find.js_ReactApp/static/media/github-outline-fill.c30df0d657863c927e978773d8ed5e98.svg",
-    "static/media/github-outline-fill_ww.svg": "/I-Find.js_ReactApp/static/media/github-outline-fill_ww.8690f07bfbc1ae8de5dda5b47c563ef8.svg",
-    "static/media/tw__sm.svg": "/I-Find.js_ReactApp/static/media/tw__sm.5cb02a165bc50bb5144b597c29dbc7a5.svg",
-    "static/media/clipboard.svg": "/I-Find.js_ReactApp/static/media/clipboard.8959e638b77befeed437adfb905d3d6b.svg",
-    "static/media/copy__c.svg": "/I-Find.js_ReactApp/static/media/copy__c.c57e0aef8ccf3c91227c17e8e737588d.svg",
-    "index.html": "/I-Find.js_ReactApp/index.html",
-    "main.0a223b5a.css.map": "/I-Find.js_ReactApp/static/css/main.0a223b5a.css.map",
-    "main.bc470d2e.js.map": "/I-Find.js_ReactApp/static/js/main.bc470d2e.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/I-Find.js_ReactApp/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/I-Findjs_ReactApp/static/css/main.0a223b5a.css",
+    "main.js": "/I-Findjs_ReactApp/static/js/main.238d3e28.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/I-Findjs_ReactApp/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/github-outline-fill.svg": "/I-Findjs_ReactApp/static/media/github-outline-fill.c30df0d657863c927e978773d8ed5e98.svg",
+    "static/media/github-outline-fill_ww.svg": "/I-Findjs_ReactApp/static/media/github-outline-fill_ww.8690f07bfbc1ae8de5dda5b47c563ef8.svg",
+    "static/media/tw__sm.svg": "/I-Findjs_ReactApp/static/media/tw__sm.5cb02a165bc50bb5144b597c29dbc7a5.svg",
+    "static/media/clipboard.svg": "/I-Findjs_ReactApp/static/media/clipboard.8959e638b77befeed437adfb905d3d6b.svg",
+    "static/media/copy__c.svg": "/I-Findjs_ReactApp/static/media/copy__c.c57e0aef8ccf3c91227c17e8e737588d.svg",
+    "index.html": "/I-Findjs_ReactApp/index.html",
+    "main.0a223b5a.css.map": "/I-Findjs_ReactApp/static/css/main.0a223b5a.css.map",
+    "main.238d3e28.js.map": "/I-Findjs_ReactApp/static/js/main.238d3e28.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/I-Findjs_ReactApp/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a223b5a.css",
-    "static/js/main.bc470d2e.js"
+    "static/js/main.238d3e28.js"
   ]
 }
