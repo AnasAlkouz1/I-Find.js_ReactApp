@@ -1,0 +1,398 @@
+
+:root{
+--v_fonT:#dedede;
+--v_title_c:#6c757d;
+--font-ww:100;
+--font-col:#333c45;
+}
+
+
+._d_d_docsre0 {
+display: flex;
+flex-direction: column;
+gap: 3rem;
+}
+
+.div_v_6437422_z{
+display: flex;
+gap: 1rem;
+margin-top: 10rem;
+margin-left: 5rem;
+flex-direction: column;
+width: 80%;
+}
+.div_ref_f_t_rss{
+height: 25px;
+background-color: #dedede;
+width: 100%;
+margin-right: 4rem;
+padding: 1rem;
+border-radius: 5px;
+font-size: 20px;
+font-weight: var(--font-ww);
+color: var(--font-co);
+}
+
+.ref_t_5743743{
+margin-top: 1rem;
+font-size: 18px;
+color: #333C44;
+margin-left: 2rem;
+}
+.m_s_code_f{
+width: 100%;
+min-height: 320px;
+height: auto;
+align-self: center;
+background-color: #333C44;
+border-radius: 10px;
+border: 1px solid #dedede;
+margin-top: 1rem;
+overflow-x: auto;
+}
+.d_mt653373{
+margin-top: 4rem !important;
+}
+.d_mt653372{
+    margin-top: 0;
+}
+
+._div_t_u_u58534{
+margin-block: 2rem;
+margin-left: 2rem;
+font-size: 20px;
+color: #6c757d;
+font-weight: var(--font-ww);
+}
+
+._div_t_u_u588744{
+margin-block: 2rem;
+margin-left: 2rem;
+font-size: 18px;
+color: #6c757d;
+font-weight: var(--font-ww);
+}
+
+
+
+._div_t_u_u58536{
+margin-block: 1rem;
+margin-left: 2rem;
+font-size: 16px;
+color: #dedede;
+font-weight: var(--font-ww);
+display: flex;
+}
+._div_t_u_u58536>span{
+font-style: italic;
+color: #fd7e14;
+margin-right: 0.5rem;
+font-weight: bolder;
+letter-spacing: 5px;
+}
+
+
+
+
+._c563355{
+display: flex;
+font-size: 18px;
+margin-left: 2rem;
+}
+._flex_c{
+flex-direction: column;
+}
+._mb75433{
+margin-block: 2rem;
+}
+
+._f_c_d6533{
+color: #dedede;
+}
+._f_c_d6533>span:nth-child(2){
+color: #31AAE1;
+}
+._f_c_d6533>span:nth-child(3){
+color: #ffc107;
+}
+._f_c_d6533>span:nth-child(6){
+color: #ffc107;
+}
+._f_c_d6533>span:nth-child(4){
+color: #31AAE1;
+margin-inline-end: 5px;
+}
+._f_c_d6533>span:nth-child(5){
+color: #cdb4db;
+}
+._f_c_d6533>span:nth-child(7){
+color: #20c997;
+}
+
+._f_c_d6533>span:nth-child(8){
+color: #31AAE1;
+}
+._f_c_d6533>span:nth-child(9){
+color: #EC768C;
+
+}
+._f_c_d6533>span:nth-child(10){
+color: #31AAE1;
+}
+._f_c_d6533>span:nth-child(11){
+color: #31AAE1;
+margin-inline-start: 5px;
+}
+._s_p_r_6448532{
+margin-block: 1rem 2rem;
+font-size: 16px;
+color: #dedede;
+font-weight: var(--font-ww);
+margin-left: 1rem;
+}
+
+._s_p_r_6448532>span:nth-child(1){
+    font-style: italic;
+    color: #20c997;
+    margin-right: 0.5rem;
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+._s_p_r_6448532>span:nth-child(3){
+color: #20c997;
+margin-right: 0.5rem;
+font-weight: bolder;
+letter-spacing: 5px;
+}
+._s_p_r_6448532>span:nth-child(2){
+color: #6c757d;
+margin-right: 0.5rem;
+font-weight: bolder;
+letter-spacing: 5px;
+}
+._df{
+display: flex;
+}
+._mb7526{
+margin-block:0;
+}
+.ml4{
+margin-right: 2rem;
+}
+.b5{
+color:#31AAE1 ;
+}
+.scr{
+color:   #dc3545;
+}
+.t_s{
+color: #20c997;
+}
+.b3{
+color: #ffc107;
+}
+._fs{
+color: #C183D6;
+}
+._d_i_c865756432{
+cursor: pointer;
+margin-top: -1px;
+}
+.div_r_r_g_r_r6533{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+._d_5375337{
+margin-block: 1rem;
+font-size: 16px;
+color: #dedede;
+font-weight: var(--font-ww);
+margin-left: 2rem;
+}
+.pre_c_i{
+margin: 0;
+}
+._d_5375337>span{
+font-style: italic;
+color: #C183D6;
+margin-right: 0.5rem;
+font-weight: bolder;
+letter-spacing: 5px;
+}
+
+
+
+img[alt='Code_Copy']{
+margin-right: 4rem;
+width: 26px;
+margin-top: -3px;
+}
+img[alt='_copy_si']{
+margin-right: -23px;
+margin-bottom: 1px;
+width: 20px;
+}
+.f_46322>div>span{
+color:#C183D6 !important ;
+}
+._span_s_t_s_t{
+display: flex;
+letter-spacing: 2px;
+}
+._span_s_t_s_t>span:nth-child(1){
+    color: #cdb4db;
+    }
+._span_s_t_s_t>span:nth-child(2){
+    color: #31AAE1;
+    }
+._span_s_t_s_t>span:nth-child(3){
+color: #20c997;
+}
+._span_s_t_s_t>span:nth-child(5){
+color: #EC768C;
+}
+._span_s_t_s_t>span:nth-child(4){
+color: #31AAE1;
+}
+._span_s_t_s_t>span:nth-child(6){
+color:   #31AAE1;
+}
+._span_s_t_s_t>span:nth-child(7){
+font-style: italic;
+color:#20c997;
+margin-right: 0.5rem;
+font-weight: bolder;
+letter-spacing: 5px;
+margin-left: 1rem;
+}
+.ref_t_5743746 {
+    margin-left: 2rem;
+    margin-top: 2.5rem;
+    font-size: 18px;
+    margin-bottom: -0.5rem;
+    display: flex;
+    color: #6c757d;
+    font-size: 16px;
+}
+
+._t_t56422{
+width: 90px;
+background-color: #333C44;
+height: 22px;
+border-radius: 5px;
+text-align: center;
+margin-right: 10px;
+color: #20c997;
+font-weight: 100;
+padding: 9px;
+}
+
+._c5636883 {
+display: flex;
+font-size: 18px;
+margin-left: 2rem;
+flex-direction: column;
+gap: 0.5rem;
+}
+.m6375322{
+    margin-top: 2rem;
+}
+
+.m6375322>span{
+    font-style: italic;
+    color: #20c997;
+    margin-right: 0.5rem;
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+._s_p_r_64485763 {
+    margin-block: 1rem 2rem;
+    font-size: 16px;
+    font-weight: var(--font-ww);
+    margin-left: 0;
+    display: flex;
+}
+._s_p_r_64485763>span:nth-child(1){
+    font-style: italic;
+    color: #20c997;
+    margin-right: 0.5rem;
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+._s_p_r_64485763>span:nth-child(3){
+color: #20c997;
+margin-right: 0.5rem;
+font-weight: bolder;
+letter-spacing: 5px;
+}
+._s_p_r_64485763>span:nth-child(2){
+color: #6c757d;
+margin-right: 0.5rem;
+font-weight: bolder;
+letter-spacing: 5px;
+}
+._r_cc{
+color: #20c997;
+display: contents;
+font-size: 18px;
+letter-spacing:1px;
+font-weight: bolder;
+}
+._n_cc{
+color: #EC768C;
+display: contents;
+font-size: 18px;
+letter-spacing:1px;
+}
+._r_c422{
+color: #31AAE1;
+display: contents;
+}
+._s_r_n_z_67433{
+color: #EC768C;
+}
+.r547432{
+margin-top: 10px;
+}
+
+.f_f_g_647533753{
+
+margin-top: 4rem;
+width: 100%;
+height: 80px;
+background-color: #333c45;
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 5px;
+}
+._di_c_r_r_r_7544722{
+font-size: 18px;
+color: #dedede;
+letter-spacing: 1px;
+}
+
+._di_c_r_r_r_7544722>span:nth-child(1){
+color: #20c997;
+}
+._di_c_r_r_r_7544722>span:nth-child(3){
+    color: #fd7e14;
+    font-weight: bolder;
+
+    }
+._di_c_r_r_r_7544722>a{
+color: #6c757d;
+transition: all 0.3s ease;
+}
+
+
+._di_c_r_r_r_7544722>a:hover{
+    color: #31AAE1;
+    }
+    
+
+
+/* "#EC768C", "#20c997","#C183D6", "#ffc107", "#dc3545",  "#31AAE1", */
+
+
