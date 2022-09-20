@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/I-Findjs_ReactApp/static/css/main.0a223b5a.css",
-    "main.js": "/I-Findjs_ReactApp/static/js/main.238d3e28.js",
+    "main.js": "/I-Findjs_ReactApp/static/js/main.85b43ffc.js",
     "static/js/787.c4e7f8f9.chunk.js": "/I-Findjs_ReactApp/static/js/787.c4e7f8f9.chunk.js",
     "static/media/github-outline-fill.svg": "/I-Findjs_ReactApp/static/media/github-outline-fill.c30df0d657863c927e978773d8ed5e98.svg",
     "static/media/github-outline-fill_ww.svg": "/I-Findjs_ReactApp/static/media/github-outline-fill_ww.8690f07bfbc1ae8de5dda5b47c563ef8.svg",
@@ -10,11 +10,11 @@
     "static/media/copy__c.svg": "/I-Findjs_ReactApp/static/media/copy__c.c57e0aef8ccf3c91227c17e8e737588d.svg",
     "index.html": "/I-Findjs_ReactApp/index.html",
     "main.0a223b5a.css.map": "/I-Findjs_ReactApp/static/css/main.0a223b5a.css.map",
-    "main.238d3e28.js.map": "/I-Findjs_ReactApp/static/js/main.238d3e28.js.map",
+    "main.85b43ffc.js.map": "/I-Findjs_ReactApp/static/js/main.85b43ffc.js.map",
     "787.c4e7f8f9.chunk.js.map": "/I-Findjs_ReactApp/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a223b5a.css",
-    "static/js/main.238d3e28.js"
+    "static/js/main.85b43ffc.js"
   ]
 }
