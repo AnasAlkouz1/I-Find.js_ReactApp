@@ -14,4 +14,4 @@
  [Library Link](https://github.com/AnasAlkouz1/I-Find.js/)
  
   
- [Demo And Docs](https://anasalkouz1.github.io/docs)
+ [Demo And Docs](https://anasalkouz1.github.io)
